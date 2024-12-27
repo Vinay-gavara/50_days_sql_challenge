@@ -103,7 +103,7 @@ AS
     ) 
 SELECT * FROM 
 cte_salary_table
-WHERE dr = 3
+WHERE dr = 3;
 
 
 -- Department which has atleast 4 employees

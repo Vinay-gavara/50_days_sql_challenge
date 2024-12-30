@@ -20,7 +20,7 @@ INSERT INTO employees1 (Emp_ID, Emp_Name, Manager_ID) VALUES
 
 
 -- 2.2 Given table employees, write a 
--- query to display employee names along with manager names
+-- query to display employee names along with manager names;
 
 
 SELECT 

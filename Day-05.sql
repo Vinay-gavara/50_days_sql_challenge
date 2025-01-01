@@ -29,7 +29,7 @@ VALUES
 ('C', '2024-06-01', 3500.00);
 
 /* 
--- Walmart SQL question for Data Analyst
+
 
 
 Calculate each store running total

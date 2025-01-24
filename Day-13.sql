@@ -17,7 +17,7 @@ INSERT INTO Employees (name, salary) VALUES
 ('Hank', 75000.00);
 
 SELECT * FROM Employees;
-
+--Using window functions we assign certain ranks to the rows.
 WITH salary_ranks
 AS
 (

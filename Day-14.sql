@@ -57,7 +57,7 @@ WITH dispatched_table
 AS
 (
 SELECT 
-    r.id as rastaurant_id,
+    r.id as restaurant_id,
     r.name as restaurant_name,
     o.id as order_id,
     o.order_time,

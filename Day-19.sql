@@ -16,7 +16,7 @@ for item in my_list:
         print()
 print(total)
 
-# my_list2 = [2, 5, 'x', 'b']
+# my_list2 = [2, 5, 'x', 'b'];
 
 # for i in my_list2:
 #     print(i)

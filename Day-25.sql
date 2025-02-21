@@ -48,3 +48,4 @@ WHERE
     o1.order_date = (SELECT MAX(order_date) 
                     FROM orders as o2 
                     WHERE o2.customer_id = o1.customer_id)
+;
